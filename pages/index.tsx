@@ -11,9 +11,9 @@ export default function Home() {
       <main>
         <BaseContent />
       </main>
-      <footer>
+      {/* <footer>
         <Copyright />
-      </footer>
+      </footer> */}
     </>
   );
 }
