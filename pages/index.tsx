@@ -11,7 +11,7 @@ export default function Home() {
         <BaseContent />
       </main>
 
-      <Copyright />
+      {/* <Copyright /> */}
     </>
   );
 }
