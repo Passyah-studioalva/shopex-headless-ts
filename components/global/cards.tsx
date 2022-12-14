@@ -14,8 +14,9 @@ import {
   Button,
   Image,
 } from "@chakra-ui/react";
-import Shopify from "@shopify/shopify-api";
-import app from "next/app";
+// import app from "next/app";
+// const { DataType } = require("@shopify/shopify-api");
+// const Shopify = require("@shopify/shopify-api").Shopify;
 
 // app.get("/products", async (http_request: any, http_response: any) => {
 //   const client_session = await Shopify.Utils.loadCurrentSession(
